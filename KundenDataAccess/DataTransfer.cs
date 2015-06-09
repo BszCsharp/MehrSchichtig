@@ -124,8 +124,9 @@ namespace KundenDataAccess
 				alKunde.Add(k);
 			}
 			
-			return alKunde;
+			
 			drKunde.Close();
+            return alKunde;
 		}
 
         internal void InsertKunde(Kunde k)
