@@ -123,7 +123,7 @@ namespace KundenManageApp
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(32, 208);
+            this.label1.Location = new System.Drawing.Point(32, 204);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(72, 16);
             this.label1.TabIndex = 12;
@@ -138,7 +138,7 @@ namespace KundenManageApp
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(24, 240);
+            this.label2.Location = new System.Drawing.Point(32, 244);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(80, 16);
             this.label2.TabIndex = 14;
