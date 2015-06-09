@@ -109,6 +109,7 @@
     <Compile Include="DataTransfer.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="DTO.cs" />
     <Compile Include="Kunde.cs">
       <SubType>Code</SubType>
     </Compile>
