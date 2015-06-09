@@ -142,7 +142,7 @@ namespace KundenManageApp
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(80, 16);
             this.label2.TabIndex = 14;
-            this.label2.Text = "Geb.-Datum";
+            this.label2.Text = "Geburts-Datum";
             // 
             // txtGebDatum
             // 
