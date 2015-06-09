@@ -132,7 +132,7 @@ namespace KundenDataAccess
         {
             this.oleDbKunden.Open();
             this.cmd_kunden_insert.Parameters["KundenID"].Value = k.KundenId;
-            this.cmd_kunden_insert.Parameters["Name"].Value = k.Name;
+            this.cmd_kunden_insert.Parameters["NName"].Value = k.Name;
             this.cmd_kunden_insert.Parameters["VName"].Value = k.Vorname;
             this.cmd_kunden_insert.Parameters["GebDat"].Value = k.GebDatum;
             try
