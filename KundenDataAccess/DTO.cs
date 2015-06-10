@@ -26,5 +26,9 @@ namespace KundenDataAccess
 	        }
             return result;
         }
+        private void CloseConnection()
+        {
+            con.Close();
+        }
     }  
 }
